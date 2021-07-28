@@ -3,7 +3,7 @@ import argparse
 import pandas as pd
 import numpy as np
 
-
+# resfinder data summary script
 def args_parse():
     "Parse the input argument, use '-h' for help."
     parser = argparse.ArgumentParser(
