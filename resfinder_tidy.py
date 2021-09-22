@@ -24,9 +24,10 @@ def main():
     output_file = os.path.join(output_file_path ,'resfinder_sum.csv')
     print(output_file)
     df = pd.read_csv(input_file, sep='\t',
-                     names=['Strain', 'Database', 'Resistance gene', 'Identity', 'Query / Template length', 'Contig', 'Position in contig', 'Predicted phenotype', 'Accession number'])
+                     names=['Strain', 'Resistance gene', 'Identity', 'Alignment Length/Gene Length', 'Coverage', 'Position in reference', 'Contig',  'Position in contig', 'Phenotype', 'Accession no.'])
+    df['Phenotype'] = df['Phenotype'].replace(' resistance', '')
     df_final = df.pivot_table(index='Strain', columns=[
-                              'Database', 'Resistance gene'], values='Identity', aggfunc=lambda x: ','.join(map(str, x)))
+                              'Phenotype', 'Resistance gene'], values='Identity', aggfunc=lambda x: ','.join(map(str, x)))
     # print(df_final)
     df_final.to_csv(output_file)
 
