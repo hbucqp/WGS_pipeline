@@ -1,0 +1,1385 @@
+Serial number,Seroype,geo_loc_name,Host Source
+136-2contigs,21,China,Healthy pig
+16SD1AY22-2,3,China,Healthy pig
+16SD1BY34-1,18,China,Healthy pig
+GCA_018417975.1_ASM1841797v1_genomic,2,China,Diseased pig
+GCA_018418085.1_ASM1841808v1_genomic,2,China,Diseased pig
+GCA_018418135.1_ASM1841813v1_genomic,1,China,human
+GCA_018418175.1_ASM1841817v1_genomic,2,China,human
+GCA_018418195.1_ASM1841819v1_genomic,2,China,human
+GCA_018418245.1_ASM1841824v1_genomic,2,China,human
+GCA_018418275.1_ASM1841827v1_genomic,2,China,human
+GCA_018418315.1_ASM1841831v1_genomic,2,China,human
+GCA_018418335.1_ASM1841833v1_genomic,2,China,human
+GCA_018418355.1_ASM1841835v1_genomic,2,China,human
+GCA_018418375.1_ASM1841837v1_genomic,2,China,human
+GCA_018418395.1_ASM1841839v1_genomic,2,China,human
+GCA_018418415.1_ASM1841841v1_genomic,2,China,human
+GCA_018418425.1_ASM1841842v1_genomic,2,China,human
+GCA_018418455.1_ASM1841845v1_genomic,2,China,human
+GCA_018418465.1_ASM1841846v1_genomic,2,China,human
+GCA_018418495.1_ASM1841849v1_genomic,2,China,human
+GCA_018418515.1_ASM1841851v1_genomic,2,China,human
+GCA_018418535.1_ASM1841853v1_genomic,2,China,human
+GCA_018418555.1_ASM1841855v1_genomic,2,China,human
+GCA_018418595.1_ASM1841859v1_genomic,2,China,human
+GCA_018418635.1_ASM1841863v1_genomic,2,China,human
+GCA_018418715.1_ASM1841871v1_genomic,2,China,human
+GCA_018418815.1_ASM1841881v1_genomic,2,China,human
+GCA_018418835.1_ASM1841883v1_genomic,2,China,human
+GCA_018418885.1_ASM1841888v1_genomic,2,China,human
+GCA_018418915.1_ASM1841891v1_genomic,2,China,human
+GCA_018418935.1_ASM1841893v1_genomic,2,China,human
+GCA_018418955.1_ASM1841895v1_genomic,2,China,human
+GCA_018418965.1_ASM1841896v1_genomic,2,China,human
+GCA_018418995.1_ASM1841899v1_genomic,2,China,human
+GCA_018419015.1_ASM1841901v1_genomic,2,China,human
+GCA_018419025.1_ASM1841902v1_genomic,2,China,human
+GCA_018419065.1_ASM1841906v1_genomic,1,China,human
+GCA_018419095.1_ASM1841909v1_genomic,2,China,human
+GCA_018419135.1_ASM1841913v1_genomic,2,China,human
+GCA_018419215.1_ASM1841921v1_genomic,2,China,human
+GCA_018419225.1_ASM1841922v1_genomic,2,China,human
+GCA_018419255.1_ASM1841925v1_genomic,2,China,human
+GCA_018419315.1_ASM1841931v1_genomic,2,China,human
+GCA_018419335.1_ASM1841933v1_genomic,2,China,human
+GCA_018419375.1_ASM1841937v1_genomic,2,China,human
+GCA_018419425.1_ASM1841942v1_genomic,2,China,human
+GCA_018419465.1_ASM1841946v1_genomic,2,China,human
+GCA_018419495.1_ASM1841949v1_genomic,2,China,human
+GCA_018419535.1_ASM1841953v1_genomic,2,China,human
+GCA_018419575.1_ASM1841957v1_genomic,2,China,human
+GCA_018419595.1_ASM1841959v1_genomic,2,China,human
+GCA_018419615.1_ASM1841961v1_genomic,2,China,human
+GCA_018419635.1_ASM1841963v1_genomic,2,China,human
+GCA_018419655.1_ASM1841965v1_genomic,2,China,human
+GCA_018419665.1_ASM1841966v1_genomic,2,China,human
+GCA_018419715.1_ASM1841971v1_genomic,2,China,human
+GCA_018419735.1_ASM1841973v1_genomic,2,China,human
+GCA_018419765.1_ASM1841976v1_genomic,2,China,human
+GCA_018419795.1_ASM1841979v1_genomic,2,China,human
+GCA_018419815.1_ASM1841981v1_genomic,2,China,human
+GCA_018419825.1_ASM1841982v1_genomic,1,China,human
+GCA_018419895.1_ASM1841989v1_genomic,2,China,human
+GCA_018419915.1_ASM1841991v1_genomic,2,China,human
+GCA_018419935.1_ASM1841993v1_genomic,2,China,human
+GCA_018419945.1_ASM1841994v1_genomic,2,China,human
+GCA_018419955.1_ASM1841995v1_genomic,2,China,human
+GCF_000026745.1_ASM2674v1_genomic,2,Viet Nam,human
+GCF_000091905.1_ASM9190v1_genomic,2,unknown,Diseased pig
+GCF_000440255.1_version1_genomic,2,Germany,human
+GCF_000876695.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876715.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876735.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876775.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876815.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876835.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876855.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876875.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876895.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876935.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876955.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876975.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000876995.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000877035.1_Velvet_assembly_genomic,1,United Kingdom,Diseased pig
+GCF_000877095.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000877115.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000877135.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000877155.1_Velvet_assembly_genomic,1,United Kingdom,Diseased pig
+GCF_000877195.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000877215.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000877235.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936045.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000936305.1_Velvet_assembly_genomic,14,unknown,Diseased pig
+GCF_000936385.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000936535.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936555.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936575.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000936595.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936795.1_Velvet_assembly_genomic,14,United Kingdom,Diseased pig
+GCF_000936815.1_Velvet_assembly_genomic,14,United Kingdom,Diseased pig
+GCF_000936835.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936875.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936895.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000936975.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936995.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937015.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937055.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937155.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000937195.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937235.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937255.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937295.1_Velvet_assembly_genomic,14,unknown,Diseased pig
+GCF_000937595.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000937635.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937675.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937735.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000937755.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000937995.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938055.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938095.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000938135.1_Velvet_assembly_genomic,2,unknown,Diseased pig
+GCF_000938195.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000938375.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938435.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938475.1_Velvet_assembly_genomic,2,Viet Nam,Diseased pig
+GCF_000938595.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938615.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938635.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938655.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938775.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938815.1_Velvet_assembly_genomic,2,Viet Nam,Diseased pig
+GCF_000938935.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939015.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000939055.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000939095.1_Velvet_assembly_genomic,2,United Kingdom,Healthy pig
+GCF_000939115.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939175.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000939235.1_Velvet_assembly_genomic,14,unknown,Diseased pig
+GCF_000939315.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000939735.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939795.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939855.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939875.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000939895.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939935.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000939995.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940015.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940055.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940075.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940095.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940155.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940195.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940375.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000940395.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000940475.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940495.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940595.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940635.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000940715.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000940755.1_Velvet_assembly_genomic,1,unknown,Diseased pig
+GCF_000941135.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000941175.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941255.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941295.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000941355.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000941415.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941475.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941595.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941655.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000941675.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941695.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941735.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941755.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000941775.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941795.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941815.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000941855.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000941915.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000941955.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942055.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000942075.1_Velvet_assembly_genomic,14,United Kingdom,Diseased pig
+GCF_000942115.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000942175.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942195.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942295.1_Velvet_assembly_genomic,2,Viet Nam,Diseased pig
+GCF_000942315.1_Velvet_assembly_genomic,1,United Kingdom,Diseased pig
+GCF_000942355.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942415.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942435.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942455.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942475.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942495.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000942535.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942555.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000942575.1_Velvet_assembly_genomic,2,Viet Nam,Diseased pig
+GCF_000942595.1_Velvet_assembly_genomic,2,unknown,Diseased pig
+GCF_000942615.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000942635.1_Velvet_assembly_genomic,14,United Kingdom,Diseased pig
+GCF_000942675.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942715.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942735.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942755.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942795.1_Velvet_assembly_genomic,2,unknown,Diseased pig
+GCF_000942855.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000942895.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942975.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000942995.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000943115.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000943195.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000943235.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943275.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943295.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000943335.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943835.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943855.1_Velvet_assembly_genomic,1,United Kingdom,Diseased pig
+GCF_000943875.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943895.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943915.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943935.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943975.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000943995.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944035.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944055.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944075.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944135.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000944195.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000944315.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944415.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944495.1_Velvet_assembly_genomic,2,unknown,Diseased pig
+GCF_000944515.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944555.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944575.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944635.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000944655.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944675.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000944775.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944815.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944875.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000944915.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944935.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000944975.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945015.1_Velvet_assembly_genomic,14,United Kingdom,Diseased pig
+GCF_000945035.1_Velvet_assembly_genomic,1,unknown,Diseased pig
+GCF_000945055.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945075.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945095.1_Velvet_assembly_genomic,2,Viet Nam,Diseased pig
+GCF_000945255.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945275.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945295.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945335.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000945375.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945395.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945435.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945475.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945575.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000945595.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000945635.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945695.1_Velvet_assembly_genomic,2,United Kingdom,Healthy pig
+GCF_000945735.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945815.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000945855.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946015.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000946035.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000946075.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000946115.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946215.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000946355.1_Velvet_assembly_genomic,2,Viet Nam,Diseased pig
+GCF_000946495.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000946515.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946535.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000946555.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946575.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946595.1_Velvet_assembly_genomic,1|2,United Kingdom,Diseased pig
+GCF_000946675.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000946695.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000946795.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946875.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946955.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000946995.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947075.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000947095.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947255.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947335.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947395.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000947415.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000947435.1_Velvet_assembly_genomic,1,United Kingdom,Diseased pig
+GCF_000947475.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947515.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947555.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000947575.1_Velvet_assembly_genomic,2,Viet Nam,Healthy pig
+GCF_000947595.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947615.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947635.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947675.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947735.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947755.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947775.1_Velvet_assembly_genomic,1,United Kingdom,Diseased pig
+GCF_000947795.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000947835.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_001293245.1_Ssuis1606_v1.0_genomic,2,USA,Diseased pig
+GCF_002963035.1_ASM296303v1_genomic,2,China,Diseased pig
+GCF_003012385.1_ASM301238v1_genomic,2,China,human
+GCF_003012395.1_ASM301239v1_genomic,2,China,human
+GCF_003012425.1_ASM301242v1_genomic,2,China,human
+GCF_003012435.1_ASM301243v1_genomic,2,China,human
+GCF_003012465.1_ASM301246v1_genomic,2,China,human
+GCF_003028635.1_ASM302863v1_genomic,2,Italy,human
+GCF_006568985.1_ASM656898v1_genomic,14,USA,Diseased pig
+GCF_009729875.1_ASM972987v1_genomic,2,China,Healthy pig
+GCF_013371025.1_ASM1337102v1_genomic,2,China,Diseased pig
+GCF_014843095.1_ASM1484309v1_genomic,2,Netherlands,Diseased pig
+GCF_016584685.1_ASM1658468v1_genomic,2,Thailand,Healthy pig
+GCF_016585285.1_ASM1658528v1_genomic,2,Japan,Diseased pig
+GCF_016585305.1_ASM1658530v1_genomic,2,Japan,Diseased pig
+GCF_016585365.1_ASM1658536v1_genomic,2,Japan,Diseased pig
+GCF_016585425.1_ASM1658542v1_genomic,2,Japan,Diseased pig
+GCF_016585465.1_ASM1658546v1_genomic,2,Japan,Diseased pig
+GCF_016585485.1_ASM1658548v1_genomic,2,Japan,Healthy pig
+GCF_016585505.1_ASM1658550v1_genomic,2,Japan,Diseased pig
+GCF_016585545.1_ASM1658554v1_genomic,2,Japan,Healthy pig
+GCF_016743275.1_ASM1674327v1_genomic,2,Thailand,Diseased pig
+GCF_016743285.1_ASM1674328v1_genomic,2,Thailand,Healthy pig
+GCF_016743315.1_ASM1674331v1_genomic,2,Thailand,Healthy pig
+GCF_016743345.1_ASM1674334v1_genomic,1|2,Thailand,Healthy pig
+GCF_016743395.1_ASM1674339v1_genomic,2,Thailand,human
+GCF_017655455.1_ASM1765545v1_genomic,8,Japan,Diseased pig
+GCF_017655545.1_ASM1765554v1_genomic,nt,Japan,Healthy pig
+GCF_017814455.1_ASM1781445v1_genomic,2,Thailand,human
+GCF_018252715.1_ASM1825271v1_genomic,2,China,Diseased pig
+GCF_018252975.1_ASM1825297v1_genomic,2,China,human
+GCF_018253615.1_ASM1825361v1_genomic,2,China,Diseased pig
+GCF_018253715.1_ASM1825371v1_genomic,14,China,Diseased pig
+GCF_900007815.1_assembly_2001946_genomic,2,Netherlands,human
+GCF_900007895.1_assembly_2011423_genomic,2,Netherlands,human
+GCF_900007925.1_assembly_GD-0025_genomic,2,Netherlands,Diseased pig
+GCF_900007955.1_assembly_GD-0049_genomic,2,Netherlands,Diseased pig
+GCF_900007995.1_assembly_GD-0077_genomic,2,Netherlands,Diseased pig
+GCF_900008055.1_assembly_GD-0113_genomic,14,Netherlands,Diseased pig
+GCF_900009165.1_assembly_GD-0023_genomic,14,Netherlands,Diseased pig
+GCF_900009185.1_assembly_GD-0065_genomic,2,Netherlands,Diseased pig
+GCF_900009205.1_assembly_S10_genomic,2,Netherlands,Diseased pig
+GCF_900009565.1_assembly_C160_genomic,14,Netherlands,Diseased pig
+GCF_900009575.1_assembly_971724_genomic,2,Netherlands,human
+GCF_900009645.1_assembly_S3_genomic,2,Netherlands,Diseased pig
+GCF_900009775.1_assembly_GD-0036_genomic,14,Netherlands,Diseased pig
+GCF_900009865.1_assembly_971344_genomic,2,Netherlands,human
+GCF_900009875.1_assembly_6388_genomic,14,Netherlands,Diseased pig
+GCF_900009885.1_assembly_GD-0010_genomic,2,Netherlands,Diseased pig
+GCF_900009895.1_assembly_GD-0013_genomic,2,Netherlands,Diseased pig
+GCF_900010075.1_assembly_6112_genomic,14,Netherlands,Diseased pig
+GCF_900010245.1_assembly_870040_genomic,2,Netherlands,human
+GCF_900010285.1_assembly_GD-0114_genomic,2,Netherlands,Diseased pig
+GCF_900010435.1_assembly_940056_genomic,2,Netherlands,human
+GCF_900010445.1_assembly_2061410_genomic,2,Netherlands,human
+GCF_900011205.1_assembly_940430_genomic,2,Netherlands,human
+GCF_900011545.1_assembly_890267_genomic,2,Netherlands,human
+GCF_900011765.1_assembly_902409_genomic,2,Netherlands,human
+GCF_900011775.1_assembly_GD-0090_genomic,2,Netherlands,Diseased pig
+GCF_900012665.1_assembly_GD-0107_genomic,2,Netherlands,Diseased pig
+GCF_900013145.1_assembly_2000343_genomic,2,Netherlands,human
+GCF_900013295.1_assembly_2071319_genomic,2,Netherlands,human
+GCF_900013305.1_assembly_GD-0101_genomic,1|2,Netherlands,Diseased pig
+GCF_900049115.1_8337_6_8_genomic,2,Viet Nam,human
+GCF_900049125.1_8337_6_12_genomic,2,Viet Nam,human
+GCF_900049135.1_8337_6_22_genomic,2,Viet Nam,human
+GCF_900049145.1_8337_6_24_genomic,2,Viet Nam,human
+GCF_900049155.1_8525_5_63_genomic,2,Viet Nam,human
+GCF_900049165.1_8525_5_67_genomic,2,Viet Nam,human
+GCF_900049355.1_8337_6_10_genomic,2,Viet Nam,human
+GCF_900049655.1_8337_6_9_genomic,2,Viet Nam,human
+GCF_900049675.1_8337_6_90_genomic,2,Viet Nam,Diseased pig
+GCF_900049995.1_8337_6_5_genomic,2,Viet Nam,human
+GCF_900050005.1_8337_6_15_genomic,2,Viet Nam,human
+GCF_900050015.1_8337_6_14_genomic,2,Viet Nam,human
+GCF_900050025.1_8337_6_20_genomic,2,Viet Nam,human
+GCF_900050035.1_8337_6_39_genomic,2,Viet Nam,human
+GCF_900050045.1_8525_5_73_genomic,2,Viet Nam,human
+GCF_900050425.1_7054_7_65_genomic,1,United Kingdom,Diseased pig
+GCF_900050445.1_8337_6_11_genomic,2,Viet Nam,human
+GCF_900050455.1_8337_6_66_genomic,2,Viet Nam,human
+GCF_900050865.1_8337_6_65_genomic,2,Viet Nam,human
+GCF_900050885.1_8525_5_44_genomic,2,Viet Nam,human
+GCF_900050895.1_8525_5_83_genomic,2,Viet Nam,human
+GCF_900051285.1_8525_5_61_genomic,2,Viet Nam,human
+GCF_900051595.1_7054_7_11_genomic,1,United Kingdom,Diseased pig
+GCF_900051965.1_8337_6_60_genomic,2,Viet Nam,human
+GCF_900051975.1_8337_6_71_genomic,2,Viet Nam,human
+GCF_900051985.1_8337_6_72_genomic,2,Viet Nam,human
+GCF_900051995.1_8525_5_68_genomic,2,Viet Nam,human
+GCF_900052005.1_8525_5_81_genomic,2,Viet Nam,human
+GCF_900052245.1_8337_6_70_genomic,2,Viet Nam,human
+GCF_900052835.1_8337_6_73_genomic,2,Viet Nam,human
+GCF_900052845.1_8525_5_40_genomic,2,Viet Nam,human
+GCF_900052855.1_8525_5_43_genomic,2,Viet Nam,human
+GCF_900052865.1_8525_5_58_genomic,2,Viet Nam,human
+GCF_900053185.1_8337_6_45_genomic,2,Viet Nam,human
+GCF_900053195.1_8337_6_46_genomic,2,Viet Nam,human
+GCF_900053205.1_8525_5_33_genomic,2,Viet Nam,human
+GCF_900053215.1_8525_5_36_genomic,2,Viet Nam,human
+GCF_900053225.1_8525_5_64_genomic,2,Viet Nam,human
+GCF_900053605.1_8337_6_33_genomic,2,Viet Nam,human
+GCF_900053615.1_8337_6_79_genomic,2,Viet Nam,human
+GCF_900053625.1_8525_5_20_genomic,2,Viet Nam,human
+GCF_900053635.1_8525_5_38_genomic,2,Viet Nam,human
+GCF_900053795.1_8337_6_25_genomic,2,Viet Nam,human
+GCF_900054115.1_8337_6_21_genomic,2,Viet Nam,human
+GCF_900054125.1_8337_6_27_genomic,2,Viet Nam,human
+GCF_900054305.1_8337_6_78_genomic,2,Viet Nam,human
+GCF_900054315.1_8525_5_29_genomic,2,Viet Nam,human
+GCF_900054325.1_8525_5_66_genomic,2,Viet Nam,human
+GCF_900054345.1_8525_5_84_genomic,2,Viet Nam,human
+GCF_900054355.1_8525_5_85_genomic,2,Viet Nam,human
+GCF_900054595.1_8525_5_72_genomic,2,Viet Nam,human
+GCF_900054815.1_7054_7_24_genomic,2,United Kingdom,Healthy pig
+GCF_900054855.1_8337_6_41_genomic,2,Viet Nam,human
+GCF_900054865.1_8337_6_48_genomic,2,Viet Nam,human
+GCF_900054875.1_8525_5_69_genomic,2,Viet Nam,human
+GCF_900055135.1_8525_5_74_genomic,2,Viet Nam,human
+GCF_900055145.1_8525_5_76_genomic,2,Viet Nam,human
+GCF_900055155.1_8525_5_78_genomic,2,Viet Nam,human
+GCF_900055505.1_8525_5_70_genomic,2,Viet Nam,human
+GCF_900055515.1_8525_5_77_genomic,2,Viet Nam,human
+GCF_900055525.1_8525_5_80_genomic,2,Viet Nam,human
+GCF_900055535.1_8525_5_87_genomic,2,Viet Nam,human
+GCF_900055875.1_8337_6_47_genomic,2,Viet Nam,human
+GCF_900055885.1_8525_5_79_genomic,2,Viet Nam,human
+GCF_900055895.1_8525_5_82_genomic,2,Viet Nam,human
+GCF_900056575.1_8337_6_74_genomic,2,Viet Nam,human
+GCF_900056585.1_8525_5_30_genomic,2,Viet Nam,human
+GCF_900056595.1_8525_5_59_genomic,2,Viet Nam,human
+GCF_900056605.1_8525_5_93_genomic,2,Viet Nam,Diseased pig
+GCF_900056865.1_8337_6_77_genomic,2,Viet Nam,human
+GCF_900056875.1_8525_5_47_genomic,2,Viet Nam,human
+GCF_900056885.1_8525_5_53_genomic,2,Viet Nam,human
+GCF_900057065.1_8337_6_29_genomic,2,Viet Nam,human
+GCF_900057075.1_8337_6_49_genomic,2,Viet Nam,human
+GCF_900057505.1_8337_6_28_genomic,2,Viet Nam,human
+GCF_900057515.1_8337_6_75_genomic,2,Viet Nam,human
+GCF_900057525.1_8525_5_45_genomic,2,Viet Nam,human
+GCF_900057685.1_8525_5_41_genomic,2,Viet Nam,human
+GCF_900057695.1_8525_5_42_genomic,2,Viet Nam,human
+GCF_900057705.1_8525_5_50_genomic,2,Viet Nam,human
+GCF_900057715.1_8525_5_75_genomic,2,Viet Nam,human
+GCF_900057725.1_8525_5_15_genomic,2,Viet Nam,Diseased pig
+GCF_900058045.1_8337_6_67_genomic,2,Viet Nam,human
+GCF_900058055.1_8337_6_68_genomic,2,Viet Nam,human
+GCF_900058065.1_8525_5_86_genomic,2,Viet Nam,human
+GCF_900058075.1_8525_5_12_genomic,2,Viet Nam,Diseased pig
+GCF_900058275.1_8337_6_26_genomic,2,Viet Nam,human
+GCF_900058285.1_8525_5_31_genomic,2,Viet Nam,human
+GCF_900058295.1_8525_5_46_genomic,2,Viet Nam,human
+GCF_900058305.1_8525_5_48_genomic,2,Viet Nam,human
+GCF_900058505.1_8337_6_81_genomic,2,Viet Nam,human
+GCF_900058515.1_8525_5_57_genomic,2,Viet Nam,human
+GCF_900058525.1_8525_5_89_genomic,2,Viet Nam,human
+GCF_900058745.1_8337_6_58_genomic,2,Viet Nam,human
+GCF_900058755.1_8337_6_57_genomic,2,Viet Nam,human
+GCF_900058765.1_8525_5_26_genomic,2,Viet Nam,human
+GCF_900058775.1_8525_5_71_genomic,2,Viet Nam,human
+GCF_900059175.1_8337_6_32_genomic,2,Viet Nam,human
+GCF_900059185.1_8337_6_43_genomic,2,Viet Nam,human
+GCF_900059195.1_8525_5_21_genomic,2,Viet Nam,human
+GCF_900059205.1_8525_5_51_genomic,2,Viet Nam,human
+GCF_900059465.1_8337_6_13_genomic,2,Viet Nam,human
+GCF_900059475.1_8337_6_16_genomic,2,Viet Nam,human
+GCF_900059485.1_8337_6_18_genomic,2,Viet Nam,human
+GCF_900059495.1_8337_6_31_genomic,2,Viet Nam,human
+GCF_900059505.1_8525_5_19_genomic,2,Viet Nam,human
+GCF_900059515.1_8525_5_22_genomic,2,Viet Nam,human
+GCF_900059525.1_8525_5_32_genomic,2,Viet Nam,human
+GCF_900059775.1_7054_7_40_genomic,14,United Kingdom,Healthy pig
+GCF_900059785.1_8337_6_44_genomic,2,Viet Nam,human
+GCF_900059905.1_8337_6_30_genomic,2,Viet Nam,human
+GCF_900059915.1_8337_6_42_genomic,2,Viet Nam,human
+GCF_900059925.1_8337_6_76_genomic,2,Viet Nam,human
+GCF_900060125.1_8337_6_50_genomic,2,Viet Nam,human
+GCF_900060135.1_8525_5_25_genomic,2,Viet Nam,human
+GCF_900060155.1_8525_5_88_genomic,2,Viet Nam,human
+GCF_900060325.1_7114_5_28_genomic,2,United Kingdom,Diseased pig
+GCF_900060335.1_8337_6_54_genomic,2,Viet Nam,human
+GCF_900060345.1_8337_6_56_genomic,2,Viet Nam,human
+GCF_900060355.1_8525_5_23_genomic,2,Viet Nam,human
+GCF_900060665.1_8525_5_27_genomic,2,Viet Nam,human
+GCF_900060675.1_8525_5_28_genomic,2,Viet Nam,human
+GCF_900060965.1_8337_6_1_genomic,2,Viet Nam,human
+GCF_900060975.1_8337_6_3_genomic,2,Viet Nam,human
+GCF_900060985.1_8337_6_6_genomic,2,Viet Nam,human
+GCF_900060995.1_8337_6_7_genomic,2,Viet Nam,human
+GCF_900061005.1_8337_6_34_genomic,2,Viet Nam,human
+GCF_900061015.1_8337_6_35_genomic,2,Viet Nam,human
+GCF_900061025.1_8337_6_37_genomic,2,Viet Nam,human
+GCF_900061035.1_8337_6_40_genomic,2,Viet Nam,human
+GCF_900061045.1_8337_6_51_genomic,2,Viet Nam,human
+GCF_900061055.1_8337_6_52_genomic,2,Viet Nam,human
+GCF_900061065.1_8337_6_53_genomic,2,Viet Nam,human
+GCF_900061075.1_8525_5_90_genomic,2,Viet Nam,human
+GCF_900061365.1_7054_7_10_genomic,2,United Kingdom,Diseased pig
+GCF_900061395.1_8337_6_59_genomic,2,Viet Nam,human
+GCF_900061405.1_8525_5_94_genomic,2,Viet Nam,Diseased pig
+GCF_900061435.1_8525_5_17_genomic,2,Viet Nam,Diseased pig
+GCF_900063015.1_8525_5_95_genomic,2,Viet Nam,Healthy pig
+GCF_900063285.1_8337_6_55_genomic,2,Viet Nam,human
+GCF_900063295.1_8525_5_54_genomic,2,Viet Nam,human
+GCF_900063625.1_8337_6_36_genomic,2,Viet Nam,human
+GCF_900063635.1_8337_6_38_genomic,2,Viet Nam,human
+GCF_900063645.1_8337_6_80_genomic,2,Viet Nam,human
+GCF_900063655.1_8525_5_37_genomic,2,Viet Nam,human
+GCF_900063665.1_8525_5_39_genomic,2,Viet Nam,human
+GCF_900064685.1_8525_5_35_genomic,2,Viet Nam,human
+GCF_900064695.1_8525_5_55_genomic,2,Viet Nam,human
+GCF_900065055.1_8337_6_2_genomic,2,Viet Nam,human
+GCF_900065065.1_8337_6_4_genomic,2,Viet Nam,human
+GCF_900065095.1_8525_5_24_genomic,2,Viet Nam,human
+GCF_900065245.1_8525_5_56_genomic,2,Viet Nam,human
+GCF_900065265.1_8337_6_91_genomic,2,Viet Nam,Diseased pig
+GCF_900065405.1_8337_6_17_genomic,2,Viet Nam,human
+GCF_900065415.1_8337_6_19_genomic,2,Viet Nam,human
+GCF_900065425.1_8337_6_62_genomic,2,Viet Nam,human
+GCF_900065795.1_8337_6_61_genomic,2,Viet Nam,human
+GCF_900065805.1_8337_6_64_genomic,2,Viet Nam,human
+GCF_900065815.1_8525_5_34_genomic,2,Viet Nam,human
+GCF_900177235.1_2150651_genomic,2,Netherlands,human
+GCF_900642965.1_S._suis_S10_genomic,2,Netherlands,Healthy pig
+GCF_902702755.1_S10_genomic,2,Netherlands,Diseased pig
+17BJAY18,7,China,Healthy pig
+17BJBY10,7,China,Healthy pig
+17BJBY14,29,China,Healthy pig
+17BJBY17-1,11,China,Healthy pig
+17BJBY19,nt,China,Healthy pig
+17BJBY2,nt,China,Healthy pig
+17BJBY21,nt,China,Healthy pig
+17BJBY23,nt,China,Healthy pig
+17BJBY25,7,China,Healthy pig
+17BJBY29,4,China,Healthy pig
+17BJBY32,nt,China,Healthy pig
+17BJBY46,nt,China,Healthy pig
+17BJBY4-6,nt,China,Healthy pig
+17BJBY47,19,China,Healthy pig
+17BJBY6,7,China,Healthy pig
+17BJCY13-1,7,China,Healthy pig
+17BJCY20-1,19,China,Healthy pig
+17BJCY22-2,7,China,Healthy pig
+GCF_000440315.1_version1_genomic,1,Netherlands,human
+17BJCY29,nt,China,Healthy pig
+17BJCY3,nt,China,Healthy pig
+17BJCY31,nt,China,Healthy pig
+GCA_018418115.1_ASM1841811v1_genomic,1,China,human
+GCA_018418215.1_ASM1841821v1_genomic,1,China,human
+GCA_018418615.1_ASM1841861v1_genomic,2,China,human
+GCA_018418675.1_ASM1841867v1_genomic,2,China,human
+GCA_018418735.1_ASM1841873v1_genomic,1,China,human
+GCA_018418755.1_ASM1841875v1_genomic,1,China,human
+GCA_018418765.1_ASM1841876v1_genomic,2,China,human
+GCA_018418795.1_ASM1841879v1_genomic,2,China,human
+GCA_018418855.1_ASM1841885v1_genomic,2,China,human
+GCA_018418875.1_ASM1841887v1_genomic,2,China,human
+GCA_018419055.1_ASM1841905v1_genomic,1,China,human
+GCA_018419115.1_ASM1841911v1_genomic,2,China,human
+GCA_018419145.1_ASM1841914v1_genomic,1,China,human
+GCA_018419155.1_ASM1841915v1_genomic,1,China,human
+GCA_018419195.1_ASM1841919v1_genomic,2,China,human
+GCA_018419345.1_ASM1841934v1_genomic,1,China,human
+GCA_018419395.1_ASM1841939v1_genomic,1,China,human
+GCA_018419415.1_ASM1841941v1_genomic,1,China,human
+GCA_018419455.1_ASM1841945v1_genomic,2,China,human
+GCA_018419505.1_ASM1841950v1_genomic,1,China,human
+GCA_018419545.1_ASM1841954v1_genomic,2,China,human
+GCA_018419695.1_ASM1841969v1_genomic,1,China,human
+GCA_018419745.1_ASM1841974v1_genomic,2,China,human
+GCA_018419865.1_ASM1841986v1_genomic,1,China,human
+GCA_018424075.1_ASM1842407v1_genomic,2,China,Diseased pig
+GCA_018424205.1_ASM1842420v1_genomic,2,China,Diseased pig
+GCA_018424365.1_ASM1842436v1_genomic,2,China,Diseased pig
+GCA_018424565.1_ASM1842456v1_genomic,2,China,Diseased pig
+GCA_018424585.1_ASM1842458v1_genomic,2,China,Diseased pig
+GCF_000026725.1_ASM2672v1_genomic,2,China,human
+GCF_000993745.1_ASM99374v1_genomic,2,China,Diseased pig
+GCF_001866735.1_ASM186673v1_genomic,2,China,Diseased pig
+GCF_001936415.1_ASM193641v1_genomic,2,China,human
+GCF_009870015.1_ASM987001v1_genomic,2,China,human
+GCF_009870045.1_ASM987004v1_genomic,2,China,human
+GCF_009870805.1_ASM987080v1_genomic,2,China,human
+GCF_018252945.1_ASM1825294v1_genomic,2,China,Diseased pig
+GCF_018253015.1_ASM1825301v1_genomic,2,China,Diseased pig
+GCF_018253055.1_ASM1825305v1_genomic,2,China,human
+GCF_018253375.1_ASM1825337v1_genomic,2,China,Diseased pig
+GCF_018253555.1_ASM1825355v1_genomic,2,China,Diseased pig
+GCF_018780865.1_ASM1878086v1_genomic,2,China,human
+GCF_018780875.1_ASM1878087v1_genomic,2,China,human
+GCF_018780895.1_ASM1878089v1_genomic,2,China,human
+GCF_018780925.1_ASM1878092v1_genomic,2,China,human
+GCF_018780945.1_ASM1878094v1_genomic,2,China,human
+GCF_018780965.1_ASM1878096v1_genomic,2,China,Diseased pig
+GCF_018780985.1_ASM1878098v1_genomic,2,China,human
+GCF_018781005.1_ASM1878100v1_genomic,2,China,human
+17BJCY33-2,7,China,Healthy pig
+17BJCY50,29,China,Healthy pig
+17BJCY50-2,29,China,Healthy pig
+17BJY6-1,7,China,Healthy pig
+17CQ1AY4,30,China,Healthy pig
+17CQ1BY15-2,7,China,Healthy pig
+17CQ1BY16,7,China,Healthy pig
+17CQ1BY20,nt,China,Healthy pig
+17CQ1BY21,8,China,Healthy pig
+17CQ1BY25,29,China,Healthy pig
+17CQ1BY3,nt,China,Healthy pig
+17CQ1BY37-2,nt,China,Healthy pig
+17CQ1BY57,7,China,Healthy pig
+17CQ1BY58-1,7,China,Healthy pig
+17CQ1BY58-2,7,China,Healthy pig
+17CQ1BY8-1,7,China,Healthy pig
+17CQ2B20R,nt,China,Healthy pig
+17CQ2B60,29,China,Healthy pig
+17CQ2BY66,11,China,Healthy pig
+17CQ2BY7,nt,China,Healthy pig
+17CQ3A2-2,nt,China,Healthy pig
+17CQ3AY2-1,3,China,Healthy pig
+17CQ3BY21,nt,China,Healthy pig
+17CQ3BY29,nt,China,Healthy pig
+17CQ3BY4,4,China,Healthy pig
+17CQ3CY13,11,China,Healthy pig
+17CQ3CY2,3,China,Healthy pig
+17CQ3CY21,nt,China,Healthy pig
+17CQ3CY22,3,China,Healthy pig
+17HNAY11,23,China,Healthy pig
+17HNAY30,31,China,Healthy pig
+17HNAY39,25,China,Healthy pig
+17HNBY14,nt,China,Healthy pig
+17HNBY23,nt,China,Healthy pig
+17HNBY36,18,China,Healthy pig
+17HNBY40,nt,China,Healthy pig
+17HNBY51,18,China,Healthy pig
+17HNBY57,11,China,Healthy pig
+17HNBY68,18,China,Healthy pig
+GCA_018424465.1_ASM1842446v1_genomic,nt,China,Diseased pig
+GCF_900007855.1_assembly_6555_genomic,14,Netherlands,Diseased pig
+GCF_900007865.1_assembly_9402159_genomic,14,Netherlands,Diseased pig
+GCF_900009905.1_assembly_GD-0032_genomic,14,Netherlands,Diseased pig
+GCF_900015085.1_assembly_OV585_genomic,14,Netherlands,Diseased pig
+GCF_900007945.1_assembly_GD-0050_genomic,3,Netherlands,Diseased pig
+GCF_900011455.1_assembly_GD-0063_genomic,3,Netherlands,Diseased pig
+GCF_900007965.1_assembly_GD-0054_genomic,9,Netherlands,Diseased pig
+GCF_900007985.1_assembly_GD-0076_genomic,9,Netherlands,Diseased pig
+GCF_900008025.1_assembly_GD-0100_genomic,9,Netherlands,Diseased pig
+GCF_900008035.1_assembly_GD-0106_genomic,9,Netherlands,Diseased pig
+GCF_900009195.1_assembly_GD-0081_genomic,9,Netherlands,Diseased pig
+GCF_900009315.1_assembly_GD-0007_genomic,9,Netherlands,Diseased pig
+GCF_900009585.1_assembly_GD-0012_genomic,9,Netherlands,Diseased pig
+GCF_900009595.1_assembly_GD-0028_genomic,9,Netherlands,Diseased pig
+GCF_900009605.1_assembly_GD-0034_genomic,9,Netherlands,Diseased pig
+GCF_900009615.1_assembly_GD-0052_genomic,9,Netherlands,Diseased pig
+GCF_900009755.1_assembly_9402372_genomic,9,Netherlands,Diseased pig
+GCF_900010085.1_assembly_GD-0002_genomic,9,Netherlands,Diseased pig
+GCF_900010265.1_assembly_GD-0006_genomic,9,Netherlands,Diseased pig
+GCF_900010275.1_assembly_GD-0085_genomic,9,Netherlands,Diseased pig
+GCF_900010455.1_assembly_GD-0021_genomic,9,Netherlands,Diseased pig
+GCF_900011035.1_assembly_GD-0004_genomic,9,Netherlands,Diseased pig
+GCF_900011445.1_assembly_9406160_genomic,9,Netherlands,Diseased pig
+GCF_900011475.1_assembly_GD-0088_genomic,9,Netherlands,Diseased pig
+GCF_900012315.1_assembly_GD-0018_genomic,9,Netherlands,Diseased pig
+GCF_900013315.1_assembly_GD-0117_genomic,9,Netherlands,Diseased pig
+GCF_902702765.1_GD-0088_genomic,9,Netherlands,Diseased pig
+17HNBY78,nt,China,Healthy pig
+17HNBY86,18,China,Healthy pig
+17HNBY93,nt,China,Healthy pig
+17SC1B31,nt,China,Healthy pig
+17SC1B35,nt,China,Healthy pig
+17SC1B42-2,21,China,Healthy pig
+17SC1BY12-2,nt,China,Healthy pig
+17SC1BY19,2,China,Healthy pig
+17SC1BY23,nt,China,Healthy pig
+17SC1BY25,nt,China,Healthy pig
+17SC1BY3-1,nt,China,Healthy pig
+GCA_018424385.1_ASM1842438v1_genomic,4,China,Diseased pig
+GCF_900008015.1_assembly_GD-0098_genomic,4,Netherlands,Diseased pig
+GCF_900009175.1_assembly_GD-0057_genomic,4,Netherlands,Diseased pig
+GCF_900011465.1_assembly_GD-0073_genomic,4,Netherlands,Diseased pig
+17SC1BY38-1,nt,China,Healthy pig
+17SC1BY9,nt,China,Healthy pig
+17SC2B10,31,China,Healthy pig
+17SC2B15,21,China,Healthy pig
+17SC2B17,nt,China,Healthy pig
+17SC2B29-1,nt,China,Healthy pig
+17SC2BY2-1,nt,China,Healthy pig
+17SC2BY2-2,nt,China,Healthy pig
+GCF_900007825.1_assembly_2012092_genomic,2,Netherlands,human
+GCF_900007835.1_assembly_GD-0001_genomic,2,Netherlands,Diseased pig
+GCF_900007885.1_assembly_920694_genomic,2,Netherlands,human
+GCF_900008005.1_assembly_GD-0096_genomic,2,Netherlands,Diseased pig
+GCF_900008865.1_assembly_2001171_genomic,2,Netherlands,human
+GCF_900009155.1_assembly_861160_genomic,2,Netherlands,human
+GCF_900009295.1_assembly_2032008_genomic,2,Netherlands,human
+GCF_900009745.1_assembly_950136_genomic,2,Netherlands,human
+GCF_900009985.1_assembly_931260_genomic,2,Netherlands,human
+GCF_900010255.1_assembly_2051729_genomic,2,Netherlands,human
+GCF_900010555.1_assembly_940255_genomic,2,Netherlands,human
+GCF_900011555.1_assembly_GD-0119_genomic,2,Netherlands,Diseased pig
+GCF_900013565.1_assembly_941372_genomic,2,Netherlands,human
+GCF_902702745.1_861160_genomic,2,Netherlands,human
+GCF_902702785.1_GD-0001_genomic,2,Netherlands,Diseased pig
+GCF_000943075.1_Velvet_assembly_genomic,4,United Kingdom,Healthy pig
+GCF_000947695.1_Velvet_assembly_genomic,4,United Kingdom,Diseased pig
+GCF_000944115.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000945135.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_016743195.1_ASM1674319v1_genomic,2,Thailand,Diseased pig
+GCF_016887765.1_ASM1688776v1_genomic,2,Thailand,human
+GCA_018423965.1_ASM1842396v1_genomic,3,China,Diseased pig
+GCA_018424005.1_ASM1842400v1_genomic,3,China,Diseased pig
+GCA_018424025.1_ASM1842402v1_genomic,3,China,Diseased pig
+GCF_000937075.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_000937875.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_000940675.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_000946235.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_017599165.1_ASM1759916v1_genomic,3,China,Diseased pig
+17SC2BY3-1,nt,China,Healthy pig
+GCA_018417935.1_ASM1841793v1_genomic,1|2,China,Diseased pig
+GCF_000938495.1_Velvet_assembly_genomic,2,United Kingdom,Healthy pig
+GCF_000940335.1_Velvet_assembly_genomic,1|2,United Kingdom,Diseased pig
+GCF_000941235.1_Velvet_assembly_genomic,1|2,United Kingdom,Healthy pig
+GCF_000941875.1_Velvet_assembly_genomic,1|2,United Kingdom,Healthy pig
+GCF_000942135.1_Velvet_assembly_genomic,1|2,United Kingdom,Healthy pig
+GCF_000944215.1_Velvet_assembly_genomic,2,unknown,Diseased pig
+GCF_000945155.1_Velvet_assembly_genomic,1|2,United Kingdom,Diseased pig
+GCF_000945355.1_Velvet_assembly_genomic,1|2,United Kingdom,Healthy pig
+GCF_000945875.1_Velvet_assembly_genomic,1|2,United Kingdom,Healthy pig
+GCF_000945935.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000946195.1_Velvet_assembly_genomic,1|2,United Kingdom,Healthy pig
+GCF_000946255.1_Velvet_assembly_genomic,1|2,unknown,Healthy pig
+GCF_000947495.1_Velvet_assembly_genomic,1|2,United Kingdom,Diseased pig
+GCF_000947715.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_013370925.1_ASM1337092v1_genomic,1|2,China,Healthy pig
+GCF_013371005.1_ASM1337100v1_genomic,2,China,Healthy pig
+GCF_013371565.1_ASM1337156v1_genomic,2,China,Healthy pig
+GCF_013371605.1_ASM1337160v1_genomic,2,China,Healthy pig
+GCF_016585225.1_ASM1658522v1_genomic,2,Japan,Diseased pig
+GCF_016774635.1_ASM1677463v1_genomic,2,China,Diseased pig
+GCF_018252845.1_ASM1825284v1_genomic,2,China,Diseased pig
+GCF_018253025.1_ASM1825302v1_genomic,1|2,China,Diseased pig
+GCF_018253135.1_ASM1825313v1_genomic,1|2,China,Diseased pig
+GCF_900007905.1_assembly_GD-0008_genomic,1|2,Netherlands,Diseased pig
+GCF_900050795.1_7114_5_24_genomic,1|2,United Kingdom,Healthy pig
+GCF_900050855.1_7054_7_70_genomic,2,United Kingdom,Healthy pig
+17SC3-3,29,China,Healthy pig
+17SC3A12,4,China,Healthy pig
+17SC3B2,4,China,Healthy pig
+17SC3B4-1,18,China,Healthy pig
+17SC3B43,4,China,Healthy pig
+17SC3B4-3,4,China,Healthy pig
+17SC3B47,11,China,Healthy pig
+17SC3BY14,3,China,Healthy pig
+17SC3BY20,3,China,Healthy pig
+17SC3BY24,nt,China,Healthy pig
+17SC3BY29,4,China,Healthy pig
+17SC3BY35,3,China,Healthy pig
+17SC3CY3-1,nt,China,Healthy pig
+17SC4B11,nt,China,Healthy pig
+GCA_018424145.1_ASM1842414v1_genomic,7,China,Diseased pig
+GCA_018424525.1_ASM1842452v1_genomic,7,China,Diseased pig
+GCA_018424545.1_ASM1842454v1_genomic,7,China,Diseased pig
+GCF_000935945.1_Velvet_assembly_genomic,7,United Kingdom,Diseased pig
+GCF_000936145.1_Velvet_assembly_genomic,7,United Kingdom,Diseased pig
+GCF_000936325.1_Velvet_assembly_genomic,7,United Kingdom,Diseased pig
+GCF_000936675.1_Velvet_assembly_genomic,7,United Kingdom,Healthy pig
+GCF_000936735.1_Velvet_assembly_genomic,7,United Kingdom,Healthy pig
+GCF_000939715.1_Velvet_assembly_genomic,7,United Kingdom,Diseased pig
+GCF_000942515.1_Velvet_assembly_genomic,7,United Kingdom,Diseased pig
+GCF_000944755.1_Velvet_assembly_genomic,7,unknown,Diseased pig
+GCF_000945795.1_Velvet_assembly_genomic,7,United Kingdom,Healthy pig
+GCF_014843075.1_ASM1484307v1_genomic,7,Germany,Diseased pig
+GCF_900007975.1_assembly_GD-0070_genomic,7,Netherlands,Diseased pig
+GCF_900009765.1_assembly_GD-0031_genomic,7,Netherlands,Diseased pig
+GCF_900010565.1_assembly_12V457_genomic,7,Netherlands,Diseased pig
+GCF_900011045.1_assembly_GD-0067_genomic,7,Netherlands,Diseased pig
+GCF_900011485.1_assembly_GD-0094_genomic,7,Netherlands,Diseased pig
+GCF_900060955.1_7114_5_85_genomic,7,United Kingdom,Diseased pig
+GCF_900065015.1_7054_7_83_genomic,7,United Kingdom,Healthy pig
+17SC4B13,31,China,Healthy pig
+17SC4B14,8,China,Healthy pig
+17SC5B10,4,China,Healthy pig
+17SC5B17,4,China,Healthy pig
+17SC5B30-2,21,China,Healthy pig
+17SC5B43,21,China,Healthy pig
+17SC5B93,4,China,Healthy pig
+17SD1A6,nt,China,Healthy pig
+17SD1A7,nt,China,Healthy pig
+17SD1B21,16,China,Healthy pig
+GCF_000945555.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_000946135.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_900052225.1_7054_7_52_genomic,3,United Kingdom,Diseased pig
+GCF_000936655.1_Velvet_assembly_genomic,9,United Kingdom,Healthy pig
+17SD2B31-2,nt,China,Healthy pig
+18BJ2B13,18,China,Healthy pig
+GCF_000936915.1_Velvet_assembly_genomic,8,United Kingdom,Healthy pig
+GCF_000937655.1_Velvet_assembly_genomic,8,United Kingdom,Healthy pig
+GCF_000938835.1_Velvet_assembly_genomic,8,United Kingdom,Healthy pig
+GCF_000939915.1_Velvet_assembly_genomic,8,United Kingdom,Healthy pig
+GCF_000940575.1_Velvet_assembly_genomic,8,United Kingdom,Diseased pig
+GCF_000941115.1_Velvet_assembly_genomic,8,United Kingdom,Healthy pig
+GCF_000942335.1_Velvet_assembly_genomic,8,United Kingdom,Diseased pig
+GCF_000944535.1_Velvet_assembly_genomic,8,United Kingdom,Diseased pig
+GCF_900009285.1_assembly_9501632_genomic,8,Netherlands,Diseased pig
+GCF_900052825.1_7114_5_68_genomic,8,United Kingdom,Diseased pig
+GCF_900056495.1_7114_5_67_genomic,8,United Kingdom,Diseased pig
+GCF_900059455.1_7054_7_88_genomic,8,United Kingdom,Diseased pig
+GCF_900060655.1_7114_5_76_genomic,8,United Kingdom,Diseased pig
+18BJ2B23,18,China,Healthy pig
+18CQ3B18,nt,China,Healthy pig
+18CQ3B2,nt,China,Healthy pig
+GCF_003352225.1_ASM335222v1_genomic,4,China,Diseased pig
+18HNB14,nt,China,Healthy pig
+18HNB25,21,China,Healthy pig
+18HNB4,nt,China,Healthy pig
+GCF_016584985.1_ASM1658498v1_genomic,2,Thailand,Diseased pig
+GCF_016743175.1_ASM1674317v1_genomic,2,Thailand,Diseased pig
+GCF_016758135.1_ASM1675813v1_genomic,2,Thailand,human
+GCF_016887705.1_ASM1688770v1_genomic,2,Thailand,human
+GCF_017814595.1_ASM1781459v1_genomic,2,Thailand,human
+GCF_000942235.1_Velvet_assembly_genomic,1,Viet Nam,human
+GCF_000946395.1_Velvet_assembly_genomic,1,Viet Nam,human
+GCF_900050875.1_8337_6_69_genomic,1,Viet Nam,human
+GCF_900064035.1_8337_6_63_genomic,1,Viet Nam,human
+GCF_000876915.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_900059535.1_8525_5_49_genomic,2,Viet Nam,human
+18SC5B43,21,China,Healthy pig
+GCF_000945495.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+18SD1B15,8,China,Healthy pig
+18SD27,nt,China,Healthy pig
+18SD2B12,2,China,Healthy pig
+18SD2B15,2,China,Healthy pig
+18SD2B16,nt,China,Healthy pig
+18SD2B31,nt,China,Healthy pig
+18SD2TZ4,nt,China,Healthy pig
+2013-1025-2,30,China,Healthy pig
+258-2contigs,nt,China,Healthy pig
+38-35contigs,30,China,Healthy pig
+assembly_JX89,30,China,Healthy pig
+GCA_018418065.1_ASM1841806v1_genomic,3,China,Diseased pig
+GCA_018424035.1_ASM1842403v1_genomic,3,China,Diseased pig
+GCA_018424265.1_ASM1842426v1_genomic,nt,China,Diseased pig
+GCA_018424395.1_ASM1842439v1_genomic,3,China,Diseased pig
+GCA_018424425.1_ASM1842442v1_genomic,3,China,Diseased pig
+GCA_018424445.1_ASM1842444v1_genomic,3,China,Diseased pig
+GCF_016905095.1_ASM1690509v1_genomic,3,China,Diseased pig
+CQ1B21,8,China,Healthy pig
+ESS16002,nt,China,Diseased pig
+ESS16003,3,China,Diseased pig
+ESS16004,2,China,Diseased pig
+ESS16005,18,China,Diseased pig
+ESS16006,3,China,Diseased pig
+ESS16007,4,China,Diseased pig
+ESS16008,3,China,Diseased pig
+ESS16009,7,China,Diseased pig
+ESS16010,7,China,Diseased pig
+ESS17011,8,China,Diseased pig
+ESS17012,4,China,Diseased pig
+ESS17013,2,China,Diseased pig
+ESS17014,nt,China,Diseased pig
+ESS17015,4,China,Diseased pig
+ESS17016,4,China,Diseased pig
+ESS17017,3,China,Diseased pig
+ESS17018,nt,China,Diseased pig
+ESS17019,2,China,Diseased pig
+ESS18020,7,China,Diseased pig
+ESS18021,2,China,Diseased pig
+ESS18022,3,China,Diseased pig
+ESS18024,9,China,Diseased pig
+G-12contigs,9,China,Healthy pig
+G-6contigs,12,China,Healthy pig
+G-7contigs,12,China,Healthy pig
+GSS16001,2,China,Diseased pig
+GSS16002,4,China,Diseased pig
+GSS16003,2,China,Diseased pig
+GSS16004,nt,China,Diseased pig
+GSS16006,3,China,Diseased pig
+GSS16007,8,China,Diseased pig
+GSS16008,30,China,Diseased pig
+GSS17010,5,China,Diseased pig
+GSS17011,3,China,Diseased pig
+GSS17012,2,China,Diseased pig
+GCF_900007845.1_assembly_C187_genomic,14,Netherlands,Diseased pig
+GCF_900007875.1_assembly_901131_genomic,2,Netherlands,human
+GCF_900008045.1_assembly_GD-0111_genomic,9,Netherlands,Diseased pig
+GCF_900009305.1_assembly_8067_genomic,9,Netherlands,Diseased pig
+GCF_900009635.1_assembly_GD-0080_genomic,9,Netherlands,Diseased pig
+GCF_900010095.1_assembly_GD-0051_genomic,9,Netherlands,Diseased pig
+GCF_900010195.1_assembly_GD-0087_genomic,9,Netherlands,Diseased pig
+GCF_000877075.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000936935.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_000938755.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_900054335.1_8525_5_65_genomic,2,Viet Nam,human
+GCF_900060145.1_8525_5_60_genomic,2,Viet Nam,human
+GCF_900065255.1_8525_5_62_genomic,2,Viet Nam,human
+GCF_900010735.1_assembly_2061238_genomic,2,Netherlands,human
+GCF_900013575.1_assembly_GD-0108_genomic,14,Netherlands,Diseased pig
+GCF_900009785.1_assembly_GD-0079_genomic,9,Netherlands,Diseased pig
+GCF_900014835.1_assembly_GD-0120_genomic,8,Netherlands,Diseased pig
+GCF_900009625.1_assembly_GD-0072_genomic,9,Netherlands,Diseased pig
+GCF_900007915.1_assembly_GD-0015_genomic,31,Netherlands,Diseased pig
+GCF_900009915.1_assembly_GD-0105_genomic,17,Netherlands,Diseased pig
+GCF_002963065.1_ASM296306v1_genomic,16,China,Diseased pig
+GSS17013,7,China,Diseased pig
+GSS17014,nt,China,Diseased pig
+GCF_900008065.1_assembly_GD-0112_genomic,8,Netherlands,Diseased pig
+GCF_900012395.1_assembly_9401240_genomic,9,Netherlands,Diseased pig
+GCF_902702775.1_9401240_genomic,9,Netherlands,Diseased pig
+GCF_016774475.1_ASM1677447v1_genomic,24,Thailand,human
+GCF_018885285.1_ASM1888528v1_genomic,24,Thailand,human
+GSS17015,2,China,Diseased pig
+GCF_016887585.1_ASM1688758v1_genomic,2,Thailand,human
+GCF_016887595.1_ASM1688759v1_genomic,nt,Thailand,human
+GCF_016887635.1_ASM1688763v1_genomic,2,Thailand,human
+GCF_016887685.1_ASM1688768v1_genomic,2,Thailand,human
+GCF_016887735.1_ASM1688773v1_genomic,24,Thailand,human
+GSS17016,nt,China,Diseased pig
+GCA_018418025.1_ASM1841802v1_genomic,2,China,Diseased pig
+GCA_018418035.1_ASM1841803v1_genomic,2,China,Diseased pig
+GCA_018418655.1_ASM1841865v1_genomic,2,China,human
+GCA_018418695.1_ASM1841869v1_genomic,2,China,human
+GCA_018419295.1_ASM1841929v1_genomic,2,China,human
+GCA_018419855.1_ASM1841985v1_genomic,2,China,human
+GSS17017,4,China,Diseased pig
+GSS17018,2,China,Diseased pig
+GSS17019,3,China,Diseased pig
+GSS18021,4,China,Diseased pig
+GSS18022,3,China,Diseased pig
+H110,2,China,Healthy pig
+H13,nt,China,Healthy pig
+H-2-3contigs,nt,China,Healthy pig
+H40,2,China,Healthy pig
+H41,nt,China,Healthy pig
+H56,2,China,Healthy pig
+HBAY13-2,1|2,China,Healthy pig
+HN4,8,China,Healthy pig
+HNND-1,3,China,Healthy pig
+HNND-12,2,China,Healthy pig
+HNND-13,3,China,Healthy pig
+HNND-14,2,China,Healthy pig
+HNND-15,3,China,Healthy pig
+HNND-17,3,China,Healthy pig
+HNND-18X,3,China,Healthy pig
+HNND-22,4,China,Healthy pig
+HNND-28,8,China,Healthy pig
+GCA_018423985.1_ASM1842398v1_genomic,9,China,Diseased pig
+GCA_018424495.1_ASM1842449v1_genomic,9,China,Diseased pig
+HNND-3,2,China,Healthy pig
+HNND-37,15,China,Healthy pig
+HNND-42,2,China,Healthy pig
+HNND-5,2,China,Healthy pig
+HNND-6,2,China,Healthy pig
+GCF_017599045.1_ASM1759904v1_genomic,9,China,Diseased pig
+HNND-8,2,China,Healthy pig
+HZ-25X,2,China,Healthy pig
+HZ-31-X,3,China,Healthy pig
+HZ-33,3,China,Healthy pig
+HZ-4-1,2,China,Healthy pig
+HZ-4-2,2,China,Healthy pig
+HZ-46X,7,China,Healthy pig
+HZ-55,2,China,Healthy pig
+GCA_018424285.1_ASM1842428v1_genomic,8,China,Diseased pig
+HZ-56X,2,China,Healthy pig
+HZ-59ss,2,China,Healthy pig
+GCF_017598965.1_ASM1759896v1_genomic,12,China,Diseased pig
+GCF_017599005.1_ASM1759900v1_genomic,12,China,Diseased pig
+GCF_016585565.1_ASM1658556v1_genomic,2,Japan,Diseased pig
+HZ-59X,2,China,Healthy pig
+HZ-5-X,2,China,Healthy pig
+HZ-60,2,China,Healthy pig
+HZ-65-1,2,China,Healthy pig
+HZ-66,2,China,Healthy pig
+HZ-67,2,China,Healthy pig
+HZ-71ss,2,China,Healthy pig
+HZ-72,2,China,Healthy pig
+HZ-79,3,China,Healthy pig
+JSS16001,3,China,Diseased pig
+JSS16003,3,China,Diseased pig
+JSS16004,30,China,Diseased pig
+GCF_016887625.1_ASM1688762v1_genomic,2,Thailand,human
+GCF_017655495.1_ASM1765549v1_genomic,7,Japan,Diseased pig
+GCF_017655555.1_ASM1765555v1_genomic,4,Japan,Diseased pig
+GCF_002961105.1_ASM296110v1_genomic,nt,China,Diseased pig
+GCF_002962715.1_ASM296271v1_genomic,nt,China,Diseased pig
+GCF_002962765.1_ASM296276v1_genomic,16,China,Diseased pig
+GCF_002962785.1_ASM296278v1_genomic,16,China,Diseased pig
+GCA_018424175.1_ASM1842417v1_genomic,4,China,Diseased pig
+JSS16005,3,China,Diseased pig
+JSS16006,2,China,Diseased pig
+GCA_018424065.1_ASM1842406v1_genomic,5,China,Diseased pig
+GCF_017599185.1_ASM1759918v1_genomic,31,China,Diseased pig
+GCF_017598905.1_ASM1759890v1_genomic,9,China,Diseased pig
+GCF_016905125.1_ASM1690512v1_genomic,9,China,Diseased pig
+GCF_013488145.1_ASM1348814v1_genomic,2,USA,Healthy pig
+GCF_017592525.1_ASM1759252v1_genomic,nt,China,Diseased pig
+GCA_018419275.1_ASM1841927v1_genomic,2,China,human
+GCA_018418295.1_ASM1841829v1_genomic,2,China,human
+GCA_018418565.1_ASM1841856v1_genomic,2,China,human
+GCF_003012485.1_ASM301248v1_genomic,2,China,human
+GCF_002157605.1_ASM215760v1_genomic,5,Japan,human
+JSS16007,nt,China,Diseased pig
+JSS16008,3,China,Diseased pig
+JSS16010,nt,China,Diseased pig
+GCF_001293355.1_Ssuis2660_v1.0_genomic,2,USA,Healthy pig
+GCF_013488185.1_ASM1348818v1_genomic,2,USA,Diseased pig
+GCF_000942655.1_Velvet_assembly_genomic,9,United Kingdom,Diseased pig
+GCF_900052535.1_7054_7_64_genomic,9,United Kingdom,Healthy pig
+GCF_000877015.1_Velvet_assembly_genomic,21,United Kingdom,Healthy pig
+GCF_000877055.1_Velvet_assembly_genomic,21,United Kingdom,Healthy pig
+JSS16011,2,China,Diseased pig
+GCA_018424325.1_ASM1842432v1_genomic,4,China,Diseased pig
+JSS16012,nt,China,Diseased pig
+JSS17013,30,China,Diseased pig
+GCF_900011215.1_assembly_GD-0061_genomic,7,Netherlands,Diseased pig
+GCF_000876755.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_000944455.1_Velvet_assembly_genomic,4,United Kingdom,Diseased pig
+GCF_900059075.1_7054_7_4_genomic,15,United Kingdom,Healthy pig
+GCF_000946095.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000938955.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000946935.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000941715.1_Velvet_assembly_genomic,25,United Kingdom,Diseased pig
+GCF_000937535.1_Velvet_assembly_genomic,4,United Kingdom,Healthy pig
+GCF_000945975.1_Velvet_assembly_genomic,9,United Kingdom,Healthy pig
+GCF_000938555.1_Velvet_assembly_genomic,16,United Kingdom,Healthy pig
+GCF_000944715.1_Velvet_assembly_genomic,16,United Kingdom,Healthy pig
+GCF_000937335.1_Velvet_assembly_genomic,10,United Kingdom,Healthy pig
+GCF_000938115.1_Velvet_assembly_genomic,8,United Kingdom,Diseased pig
+GCF_000945415.1_Velvet_assembly_genomic,3,United Kingdom,Diseased pig
+GCF_000937375.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_900059545.1_8525_5_52_genomic,2,Viet Nam,human
+GCF_000936285.1_Velvet_assembly_genomic,16,unknown,Diseased pig
+GCF_900052235.1_7054_7_58_genomic,16,United Kingdom,Diseased pig
+GCF_000938915.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_000946155.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_900051935.1_7114_5_35_genomic,2,United Kingdom,Healthy pig
+GCF_000938455.1_Velvet_assembly_genomic,15,unknown,Healthy pig
+GCF_000943175.1_Velvet_assembly_genomic,15,United Kingdom,Healthy pig
+GCF_000936855.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000945775.1_Velvet_assembly_genomic,16,United Kingdom,Healthy pig
+GCF_000945995.1_Velvet_assembly_genomic,16,United Kingdom,Healthy pig
+GCF_000944375.1_Velvet_assembly_genomic,16,United Kingdom,Diseased pig
+GCF_000937035.1_Velvet_assembly_genomic,24,United Kingdom,Healthy pig
+GCF_000941495.1_Velvet_assembly_genomic,21,United Kingdom,Healthy pig
+GCF_900050805.1_7114_5_64_genomic,21,United Kingdom,Diseased pig
+GCF_000942215.1_Velvet_assembly_genomic,15,United Kingdom,Healthy pig
+GCF_000937315.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_900049955.1_7114_5_75_genomic,31,United Kingdom,Diseased pig
+GCF_000937935.1_Velvet_assembly_genomic,nt,United Kingdom,Healthy pig
+GCF_000936025.1_Velvet_assembly_genomic,24,United Kingdom,Healthy pig
+GCF_000944175.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000947535.1_Velvet_assembly_genomic,nt,United Kingdom,Healthy pig
+GCF_000937915.1_Velvet_assembly_genomic,10,United Kingdom,Healthy pig
+GCF_000946615.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_900057675.1_7114_5_39_genomic,31,United Kingdom,Diseased pig
+GCF_000937695.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000938415.1_Velvet_assembly_genomic,2,unknown,Diseased pig
+GCF_900054545.1_7114_5_5_genomic,2,United Kingdom,Diseased pig
+GCF_900062845.1_7054_7_17_genomic,2,United Kingdom,Diseased pig
+GCF_900063605.1_7114_5_4_genomic,2,United Kingdom,Diseased pig
+GCF_000941555.1_Velvet_assembly_genomic,10,United Kingdom,Healthy pig
+GCF_000945455.1_Velvet_assembly_genomic,nt,United Kingdom,Healthy pig
+GCF_900056835.1_7114_5_38_genomic,nt,United Kingdom,Diseased pig
+GCF_000944615.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000943315.1_Velvet_assembly_genomic,nt,United Kingdom,Healthy pig
+GCF_000947235.1_Velvet_assembly_genomic,nt,United Kingdom,Healthy pig
+GCF_000936615.1_Velvet_assembly_genomic,10,United Kingdom,Healthy pig
+GCF_900056485.1_7114_5_66_genomic,9,United Kingdom,Diseased pig
+GCF_000940275.1_Velvet_assembly_genomic,12,United Kingdom,Healthy pig
+GCF_000942375.1_Velvet_assembly_genomic,11,United Kingdom,Healthy pig
+GCF_000946915.1_Velvet_assembly_genomic,11,United Kingdom,Healthy pig
+GCF_900062065.1_7114_5_95_genomic,11,United Kingdom,Diseased pig
+GCF_000938155.1_Velvet_assembly_genomic,7,United Kingdom,Diseased pig
+GCF_000938795.1_Velvet_assembly_genomic,4,United Kingdom,Diseased pig
+GCF_000941275.1_Velvet_assembly_genomic,8,United Kingdom,Diseased pig
+GCF_900050395.1_7054_7_86_genomic,4,United Kingdom,Diseased pig
+GCF_900051945.1_7054_7_51_genomic,8,United Kingdom,Healthy pig
+GCF_000941515.1_Velvet_assembly_genomic,2,United Kingdom,Diseased pig
+GCF_900059165.1_7054_7_60_genomic,2,United Kingdom,Diseased pig
+GCF_000943955.1_Velvet_assembly_genomic,nt,United Kingdom,Diseased pig
+GCF_900054825.1_7054_7_81_genomic,nt,United Kingdom,Healthy pig
+GCF_000937175.1_Velvet_assembly_genomic,4,United Kingdom,Diseased pig
+GCF_000938215.1_Velvet_assembly_genomic,4,United Kingdom,Diseased pig
+GCF_000947055.1_Velvet_assembly_genomic,4,United Kingdom,Diseased pig
+GCF_000946835.1_Velvet_assembly_genomic,15,United Kingdom,Diseased pig
+GCF_000947455.1_Velvet_assembly_genomic,nt,United Kingdom,Diseased pig
+GCF_000943215.1_Velvet_assembly_genomic,12,United Kingdom,Diseased pig
+GCF_900056565.1_7054_7_68_genomic,12,United Kingdom,Diseased pig
+GCF_000943055.1_Velvet_assembly_genomic,nt,United Kingdom,Healthy pig
+GCF_900055865.1_7054_7_73_genomic,nt,United Kingdom,Diseased pig
+GCF_000940175.1_Velvet_assembly_genomic,8,United Kingdom,Diseased pig
+JSS17014,nt,China,Diseased pig
+GCF_002964465.1_ASM296446v1_genomic,16,China,Diseased pig
+GCA_018418155.1_ASM1841815v1_genomic,28,China,Diseased pig
+GCA_018424165.1_ASM1842416v1_genomic,nt,China,Diseased pig
+GCF_002960565.1_ASM296056v1_genomic,nt,China,Healthy pig
+GCF_002961565.1_ASM296156v1_genomic,nt,China,Diseased pig
+GCF_002962975.1_ASM296297v1_genomic,nt,China,Diseased pig
+GCF_002961555.1_ASM296155v1_genomic,nt,China,Healthy pig
+GCF_002961605.1_ASM296160v1_genomic,nt,China,Diseased pig
+GCF_002960345.1_ASM296034v1_genomic,16,China,Diseased pig
+GCA_018424105.1_ASM1842410v1_genomic,4,China,Diseased pig
+GCA_018424225.1_ASM1842422v1_genomic,5,China,Diseased pig
+JSS17016,4,China,Diseased pig
+JSS17017,2,China,Diseased pig
+JSS17018,21,China,Diseased pig
+JSS17019,3,China,Diseased pig
+JSS17020,2,China,Diseased pig
+JSS18022,nt,China,Diseased pig
+JSS18023,nt,China,Diseased pig
+GCA_018424305.1_ASM1842430v1_genomic,18,China,Diseased pig
+JSS18024,nt,China,Diseased pig
+GCA_018417995.1_ASM1841799v1_genomic,nt,China,Diseased pig
+GCA_018424245.1_ASM1842424v1_genomic,5,China,Diseased pig
+GCF_000946655.1_Velvet_assembly_genomic,31,United Kingdom,Healthy pig
+GCF_000941315.1_Velvet_assembly_genomic,6,United Kingdom,Healthy pig
+GCF_000936695.1_Velvet_assembly_genomic,6,United Kingdom,Healthy pig
+GCF_000942015.1_Velvet_assembly_genomic,24,United Kingdom,Healthy pig
+GCF_000877175.1_Velvet_assembly_genomic,2,Viet Nam,human
+GCF_006569105.1_ASM656910v1_genomic,12,Canada,Healthy pig
+GCA_018424485.1_ASM1842448v1_genomic,3,China,Diseased pig
+JX89contigs,30,China,Healthy pig
+GCA_018418235.1_ASM1841823v1_genomic,2,China,human
+GCF_003352205.1_ASM335220v1_genomic,4,China,Healthy pig
+GCF_017600115.1_ASM1760011v1_genomic,30,China,Diseased pig
+GCF_016905345.1_ASM1690534v1_genomic,nt,China,Diseased pig
+GCF_017599065.1_ASM1759906v1_genomic,9,China,Diseased pig
+GCF_017599085.1_ASM1759908v1_genomic,9,China,Diseased pig
+GCF_017599135.1_ASM1759913v1_genomic,9,China,Diseased pig
+GCF_014854495.1_ASM1485449v1_genomic,nt,China,Diseased pig
+GCF_014854505.1_ASM1485450v1_genomic,nt,China,Diseased pig
+GCF_017600065.1_ASM1760006v1_genomic,15,China,Diseased pig
+GCF_016905375.1_ASM1690537v1_genomic,nt,China,Diseased pig
+GCF_016802795.1_ASM1680279v1_genomic,15,China,Diseased pig
+GCF_016905265.1_ASM1690526v1_genomic,15,China,Diseased pig
+GCF_017599125.1_ASM1759912v1_genomic,9,China,Diseased pig
+GCF_017598865.1_ASM1759886v1_genomic,28,China,Diseased pig
+GCF_016905245.1_ASM1690524v1_genomic,nt,China,Diseased pig
+GCF_016905365.1_ASM1690536v1_genomic,31,China,Diseased pig
+GCF_006569115.1_ASM656911v1_genomic,5,Canada,Diseased pig
+NF-2,9,China,Healthy pig
+NM2-1-6contigs,2,China,Healthy pig
+NX-4contigs,nt,China,Healthy pig
+S1,nt,China,Healthy pig
+S100,14,China,Healthy pig
+S101-1,14,China,Healthy pig
+S102-4,14,China,Healthy pig
+S102-5,14,China,Healthy pig
+S103,4,China,Healthy pig
+S109,4,China,Healthy pig
+S11,2,China,Healthy pig
+S110,nt,China,Healthy pig
+S111,3,China,Healthy pig
+S113,7,China,Healthy pig
+S115-2,14,China,Healthy pig
+S119,2,China,Healthy pig
+S120-2,1|2,China,Healthy pig
+S122,1|2,China,Healthy pig
+S123,nt,China,Healthy pig
+S127,nt,China,Healthy pig
+S130,3,China,Healthy pig
+S14,3,China,Healthy pig
+S167-2,nt,China,Healthy pig
+S18,11,China,Healthy pig
+S20,14,China,Healthy pig
+S2-1,2,China,Healthy pig
+S22,3,China,Healthy pig
+S23,3,China,Healthy pig
+S24,2,China,Healthy pig
+S34,2,China,Healthy pig
+S36,2,China,Healthy pig
+S38,2,China,Healthy pig
+S38-11,7,China,Healthy pig
+S38-16,7,China,Healthy pig
+S38-22,nt,China,Healthy pig
+S38-23,7,China,Healthy pig
+S38-8,nt,China,Healthy pig
+S38-9,nt,China,Healthy pig
+S42,5,China,Healthy pig
+S44,nt,China,Healthy pig
+S47,nt,China,Healthy pig
+S49,2,China,Healthy pig
+S5,2,China,Healthy pig
+S57,31,China,Healthy pig
+S6,2,China,Healthy pig
+S60,nt,China,Healthy pig
+S61,nt,China,Healthy pig
+S62,nt,China,Healthy pig
+S64-1,9,China,Healthy pig
+S64-2,9,China,Healthy pig
+S65,nt,China,Healthy pig
+S66-1,2,China,Healthy pig
+S66-2,2,China,Healthy pig
+S66-4,2,China,Healthy pig
+S68-1,2,China,Healthy pig
+S68-2,2,China,Healthy pig
+S69-1,2,China,Healthy pig
+S69-2,9,China,Healthy pig
+S7,2,China,Healthy pig
+S71,2,China,Healthy pig
+S78,2,China,Healthy pig
+S8,8,China,Healthy pig
+S80,3,China,Healthy pig
+S82,7,China,Healthy pig
+S84,1|2,China,Healthy pig
+S86,14,China,Healthy pig
+S89,1|2,China,Healthy pig
+S9,2,China,Healthy pig
+S91,16,China,Healthy pig
+S93-1,16,China,Healthy pig
+S94,3,China,Healthy pig
+S98-1,2,China,Healthy pig
+SC1A9-1,3,China,Healthy pig
+SC3-2,nt,China,Healthy pig
+SC3-3,nt,China,Healthy pig
+SC45,nt,China,Healthy pig
+SD1A13,nt,China,Healthy pig
+SS18-11,2,China,Healthy pig
+SS18-6,2,China,Healthy pig
+SS18-7,2,China,Healthy pig
+SS2,16,China,Healthy pig
+SSS16001,nt,China,Diseased pig
+SSS16002,nt,China,Diseased pig
+SSS16003,2,China,Diseased pig
+SSS16005,nt,China,Diseased pig
+SSS16007,nt,China,Diseased pig
+SSS16009,nt,China,Diseased pig
+SSS16010,2,China,Diseased pig
+SSS17012,30,China,Diseased pig
+SSS17014,nt,China,Diseased pig
+SSS17015,7,China,Diseased pig
+SSS17016,2,China,Diseased pig
+SSS17017,10,China,Diseased pig
+SSS17018,2,China,Diseased pig
+SSS17019,2,China,Diseased pig
+GCA_018424115.1_ASM1842411v1_genomic,4,China,Diseased pig
+GCA_018424345.1_ASM1842434v1_genomic,4,China,Diseased pig
+GCF_000945215.1_Velvet_assembly_genomic,9,United Kingdom,Healthy pig
+GCF_001293235.1_Ssuis24-14_v1.0_genomic,2,USA,Healthy pig
+GCF_001293375.1_478NasalB_v1.0_genomic,nt,USA,Diseased pig
+GCF_002960045.1_ASM296004v1_genomic,15,China,Diseased pig
+GCF_002960055.1_ASM296005v1_genomic,31,China,Healthy pig
+GCF_002960085.1_ASM296008v1_genomic,nt,China,Diseased pig
+GCF_002960105.1_ASM296010v1_genomic,nt,China,Diseased pig
+GCF_002960125.1_ASM296012v1_genomic,nt,China,Healthy pig
+GCF_002960275.1_ASM296027v1_genomic,nt,China,Healthy pig
+GCF_002960535.1_ASM296053v1_genomic,nt,China,Diseased pig
+GCF_002960555.1_ASM296055v1_genomic,nt,China,Diseased pig
+GCF_002961055.1_ASM296105v1_genomic,4,China,Diseased pig
+GCF_002961145.1_ASM296114v1_genomic,11,China,Diseased pig
+GCF_002961205.1_ASM296120v1_genomic,12,China,Diseased pig
+GCF_002961235.1_ASM296123v1_genomic,15,China,Diseased pig
+GCF_002961685.1_ASM296168v1_genomic,29,China,Healthy pig
+GCF_002961715.1_ASM296171v1_genomic,29,China,Diseased pig
+GCF_002961725.1_ASM296172v1_genomic,29,China,Diseased pig
+GCF_002962815.1_ASM296281v1_genomic,15,China,Diseased pig
+GCF_002963025.1_ASM296302v1_genomic,31,China,Healthy pig
+GCF_003285225.1_ASM328522v1_genomic,31,China,Healthy pig
+GCF_003285245.1_ASM328524v1_genomic,31,China,Healthy pig
+GCF_004843685.1_ASM484368v1_genomic,nt,China,Diseased pig
+GCF_013184905.1_ASM1318490v1_genomic,nt,China,Diseased pig
+GCF_015908885.1_ASM1590888v1_genomic,nt,China,Diseased pig
+GCF_016585265.1_ASM1658526v1_genomic,1|2,Japan,Healthy pig
+GCF_016743335.1_ASM1674333v1_genomic,nt,Thailand,Healthy pig
+GCF_016774715.1_ASM1677471v1_genomic,16,China,Diseased pig
+GCF_016774835.1_ASM1677483v1_genomic,31,China,Diseased pig
+GCF_016774875.1_ASM1677487v1_genomic,3,China,Diseased pig
+GCF_016775215.1_ASM1677521v1_genomic,9,China,Diseased pig
+GCF_016803115.1_ASM1680311v1_genomic,9,China,Diseased pig
+GCF_016905085.1_ASM1690508v1_genomic,nt,China,Diseased pig
+GCF_016905145.1_ASM1690514v1_genomic,9,China,Diseased pig
+GCF_016905165.1_ASM1690516v1_genomic,15,China,Diseased pig
+GCF_016905175.1_ASM1690517v1_genomic,31,China,Diseased pig
+GCF_016905205.1_ASM1690520v1_genomic,31,China,Diseased pig
+GCF_016905215.1_ASM1690521v1_genomic,31,China,Diseased pig
+GCF_016905285.1_ASM1690528v1_genomic,21,China,Diseased pig
+GCF_017599105.1_ASM1759910v1_genomic,9,China,Diseased pig
+GCF_017601095.1_ASM1760109v1_genomic,nt,China,Diseased pig
+GCF_018253735.1_ASM1825373v1_genomic,2,China,Diseased pig
+GCF_900007935.1_assembly_GD-0027_genomic,16,Netherlands,Diseased pig
+SSS17021,2,China,Diseased pig
+SSS17022,nt,China,Diseased pig
+SSS18023,2,China,Diseased pig
+SSS18024,9,China,Diseased pig
+WSS16001,4,China,Diseased pig
+WSS16002,3,China,Diseased pig
+WSS16003,21,China,Diseased pig
+WSS16004,4,China,Diseased pig
+WSS16005,30,China,Diseased pig
+WSS16006,2,China,Diseased pig
+WSS16007,7,China,Diseased pig
+WSS16008,31,China,Diseased pig
+WSS17009,21,China,Diseased pig
+WSS17010,4,China,Diseased pig
+WSS17011,nt,China,Diseased pig
+WSS17012,nt,China,Diseased pig
+WSS17013,2,China,Diseased pig
+WSS17014,30,China,Diseased pig
+WSS17015,3,China,Diseased pig
+WSS17019,30,China,Diseased pig
+WSS17020,4,China,Diseased pig
+WSS17021,21,China,Diseased pig
+WSS17022,nt,China,Diseased pig
+XJ112contigs,7,China,Healthy pig
+XJ14contigs,1|2,China,Healthy pig
+XJ176contigs,8,China,Healthy pig
+XJ43contigs,2,China,Healthy pig
+XJ4contigs,2,China,Healthy pig
+XJ70contigs,4,China,Healthy pig
+XJ82contigs,18,China,Healthy pig
+XJ96contigs,2,China,Healthy pig
+XSS16001,nt,China,Diseased pig
+XSS16004,2,China,Diseased pig
+XSS16005,2,China,Diseased pig
+XSS16008,2,China,Diseased pig
+XSS16009,3,China,Diseased pig
+XSS17011,nt,China,Diseased pig
+XSS17012,2,China,Diseased pig
+XSS17013,30,China,Diseased pig
+XSS17014,11,China,Diseased pig
+XSS17015,nt,China,Diseased pig
+XSS17017,2,China,Diseased pig
+XSS18018,7,China,Diseased pig
+XSS18019,1,China,Diseased pig
+XSS18021,3,China,Diseased pig
+XSS18022,4,China,Diseased pig
+XSS18023,2,China,Diseased pig
+YSS16001,nt,China,Diseased pig
+YSS16002,nt,China,Diseased pig
+YSS16003,16,China,Diseased pig
+YSS16004,19,China,Diseased pig
+YSS16005,nt,China,Diseased pig
+YSS16006,9,China,Diseased pig
+YSS16007,nt,China,Diseased pig
+YSS16008,2,China,Diseased pig
+YSS16009,nt,China,Diseased pig
+YSS16010,3,China,Diseased pig
+YSS16011,nt,China,Diseased pig
+YSS16012,3,China,Diseased pig
+YSS16014,2,China,Diseased pig
+YSS16015,nt,China,Diseased pig
+YSS16016,nt,China,Diseased pig
+YSS16017,23,China,Diseased pig
+YSS16018,nt,China,Diseased pig
+YSS17019,nt,China,Diseased pig
+YSS17021,3,China,Diseased pig
+YSS17022,nt,China,Diseased pig
+YSS17023,29,China,Diseased pig
+YSS17024,nt,China,Diseased pig
+YSS17025,3,China,Diseased pig
+YSS17026,30,China,Diseased pig
+YSS17027,2,China,Diseased pig
+YSS17028,2,China,Diseased pig
+YSS17029,nt,China,Diseased pig
+YSS17030,3,China,Diseased pig
+YSS17032,3,China,Diseased pig
+YSS17033,nt,China,Diseased pig
+YSS17034,8,China,Diseased pig
+YSS17035,nt,China,Diseased pig
+YSS17036,2,China,Diseased pig
+YSS17037,2,China,Diseased pig
+YSS17038,2,China,Diseased pig
+YSS17039,2,China,Diseased pig
+YSS17040,2,China,Diseased pig
+YSS18041,3,China,Diseased pig
+YSS18042,3,China,Diseased pig
+YSS18044,nt,China,Diseased pig
+YSS18045,3,China,Diseased pig
+YSS18046,29,China,Diseased pig
+YSS18048,nt,China,Diseased pig
+YSS18049,29,China,Diseased pig
+YSS18050,7,China,Diseased pig
+YSS18051,4,China,Diseased pig
+YSS18052,3,China,Diseased pig
+YSS19053,2,China,Diseased pig
+YSS19056,7,China,Diseased pig
+YSS19057,nt,China,Diseased pig
+YSS19058,30,China,Diseased pig
+YSS19059,nt,China,Diseased pig
+YSS19060,21,China,Diseased pig
+Z16L,2,China,Healthy pig
+ZWJ38-1,nt,China,Healthy pig
+ZWJ38-14,7,China,Healthy pig
+ZWJ38-25,nt,China,Healthy pig
+ZWJ38-28,7,China,Healthy pig
+ZWJ38-30,30,China,Healthy pig
+ZWJ38-31,nt,China,Healthy pig
+ZWJ38-34,nt,China,Healthy pig
+ZWJ38-5,nt,China,Healthy pig
