@@ -1,0 +1,17 @@
+# 首先创建一个工作目录
+```
+mkdir work && cd work
+```
+
+# 将所有的二代测序的数据和三代测序的数据软连接到当前目录
+# 如：
+```
+ln -s ../fq/*.gz ./ #链接二代测序数据到当前路径
+ln -s ../fq_long/*.gz ./ #链接三代测序数据到当前路径
+```
+
+
+# 然后执行hybrid_assembler.sh
+···
+bash hybrid_assmeble.sh
+···
