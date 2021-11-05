@@ -1,0 +1,15 @@
+# 此脚本为下载NCBI中biosample相关字段信息的python脚本
+
+# 下载后可直接使用
+
+# 需要将要下载的基因组的accession好整理到一个文本文件里
+
+# 使用方法如下
+···
+usage: download_biosample.py -list <biosample_acc_list> -outdir <output>
+
+optional arguments:
+  -h, --help      show this help message and exit
+  -list LIST      <file>: biosample_acc_list
+  -outdir OUTDIR  <path>: output directory name
+···
