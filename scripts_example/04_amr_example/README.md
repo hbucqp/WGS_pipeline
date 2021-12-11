@@ -10,7 +10,7 @@ find amr genes from genome sequencing files
 
 ##  abricate analysis
 ```
--db [argannot/card/ecoh/ecoli_vf/megares/ncbi/plasmidfinder/resfinder/vfdb]
+-db [argannot/card/ecoh/ecoli_vf/megares/ncbi/plasmidfinder/resfinder/vfdb/ssuisvf]
 
 ```
 DATABASE | SEQUENCES | DBTYPE | DATE
@@ -24,3 +24,4 @@ ncbi | 5386 |nucl| 2021-Mar-27
 plasmidfinder | 460 | nucl | 2021-Mar-27
 resfinder | 3077 | nucl | 2021-Mar-27
 vfdb | 2597 | nucl | 2021-Mar-27
+ssuisvf | 70 | nucl | 2021-Dec-11

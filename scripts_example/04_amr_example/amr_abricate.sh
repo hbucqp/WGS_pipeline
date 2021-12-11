@@ -8,6 +8,8 @@
 
 export PATH=/disk1/cau/cvmcjp/miniconda3/envs/amr/bin:$PATH
 
+
+
 # 基于abricate的耐药基因分析
 mkdir -p ./result/abricate_amr
 for filename in ./seq/*.fa
