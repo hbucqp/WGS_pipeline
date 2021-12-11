@@ -2,6 +2,7 @@ library(ggplot2)
 library(sf)
 library(scales)
 library(dplyr)
+library(ggspatial)
 
 
 setwd('/Users/cuiqingpo/Nutstore Files/Scripts/Python_Scripts/WGS_pipeline/R/01_heatmap_on_map')
@@ -41,7 +42,7 @@ ggplot() +
                                '#6A91D6', '#507DC8','#3769BB', 
                                '#1D55AD'),
                     label=c('1-9','10-19','20-29','30-39','40-49','50-59','>60')) +
-  annotation_north_arrow(location = "tl", which_north = "False",
+  annotation_north_arrow(location = "tl", which_north = "FALSE",
                          height = unit(1, "cm"),
                          pad_x = unit(0.5, "cm"),
                          pad_y = unit(0.65, "cm")) +

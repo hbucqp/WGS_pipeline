@@ -1,0 +1,70 @@
+adcR	CAR44325.1	MarR-family regulatory protein
+adhesinP	CAR44630.1	streptococcal adhesin P
+amylopullulanase	CAR47543.1	bifunctional amylopullulanase
+arcA	CAR45282.1	arginine deiminase
+ccpA	CAR46508.1	catabolite control protein A
+cdd	CAR45970.1	cytidine deaminase
+ciaH	CAR45988.1	histidine kinase receptor
+ciaR	CAR45990.1	response regulator protei
+dltA	CAR45315.1	d-alanine-d-alanyl carrier ligase
+dpr	CAR47134.1	peroxide resistance protein
+endoD	CAR47410.1	endo-beta-N-acetylglucosaminidase
+eno	CAR46746.1	enolase
+epf	AER43505.1	extracellular protein factor
+fbpS	CAR46726.1	fibronectin/fibrinogen-binding protein
+feoB	CAR46575.1	ferrous iron transport protein B
+fur	CAR44701.1	ferric uptake regulator
+GBSSAG0907-homologue	AFR00836.1	putative lipoprotein
+gdh	CAR44587.1	glutamate dehydrogenase
+glnA	CAR44412.1	glutamine synthetase
+glnH	CAR45878.1	ABC transporter glutamine-binding protein
+gnd	CAR47228.1	NADP-dependent phosphogluconate dehydrogenase
+gpmA	CAR47014.1	phosphoglycerate mutase
+gtfA	CAR46849.1	sucrose phosphorylase
+guaA	CAR45737.1	glutamine-hydrolyzing GMP synthase
+guaB	CAR47650.1	inosine-5'-monophosphate dehydrogenase
+htpS	CAR44738.1	streptococcal histidine triad-family protein
+hylA	ADF49630.1	hyaluronidase
+lgt	CAR46950.1	prolipoprotein diacylglyceryl transferase
+lmb	CAR44735.1	laminin binding protein
+lpp	CAR45967.1	putative lipoprotein
+lspA	CAR45562.1	prolipoprotein signal peptidase II
+luxS	CAR44879.1	S-ribosylhomocysteinase lyase
+manN	CAR47283.1	PTS mannose/fructose/sorbose transporter family subunit IID
+mrp	CAR45511.1	muramidase-released protein precursor (136 kDa surface protein)
+nadR	AFR01208.1	transcriptional regulator
+neuB	CAR45188.1	putative N-acetylneuraminic acid synthase
+ofs	ADV70693.1	serum opacity factor
+orf207	CAR45033.1	putative peptidase
+pepXP	CAR44490.1	Xaa-Pro dipeptidyl-peptidase
+permease	CAR45382.1	putative amino acid permease
+pgdA	CAR47008.1	peptidoglycan GlcNAc deacetylase
+phospholipaseC	CAR46395.1	putative cardiolipin synthetase
+plr-gapA	CAR44407.1	glyceraldehyde-3-phosphate dehydrogenase
+purA	CAR47452.1	adenylosuccinate synthetase
+purD	CAR44139.1	phosphoribosylamine-glycine ligase
+revS	AAM78179.1	revS (response regulator)
+rgg	ABP90963.1	Predicted transcriptional regulator
+salK	CAZ51629.1	sensor histidine kinase
+salR	CAZ51628.1	response regulator protein
+sao	CAR46506.1	putative surface-anchored protein
+scrB	CAR47316.1	sucrose-6-phosphate hydrolase
+scrR	CAR47317.1	putative sucrose operon repressor
+sly	CAR46566.1	suilysin
+SMU61-homologue	AFQ99568.1	putative DNA-binding protein
+sodA	CAR46818.1	manganese-dependent superoxide dismutase
+srtA	CAR45948.1	sortase A
+srtF	CAR44973.1	putative class C sortase
+srtF-sfp1	CAR44971.1	putative major pilin subunit
+srtF-sipF	CAR44967.1	putative signal peptidase I 2
+srtG	EEF64574.1	sortase family protein
+srtG-sgp1	EEF64575.1	putative pilin major subunit
+srtG-sgp2	EEF64576.1	putative pilin minor subunit
+ssnA	CAR47454.1	secreted nuclease A (DNA nuclease)
+sspA	CAR45614.1	surface-associated subtilisin-like protease
+traG	ABS32277.1	traG
+treR	AFQ99722.1	transcriptional regulator
+troA	CAR47563.1	extracellular metal cation-binding protein
+vicR-covR	CAR46488.1	response regulator protein
+virA	CAR47287.1	type I restriction-modification system S protein
+zmpC	CAR45866.1	putative IgA-specific zinc metalloproteinase
