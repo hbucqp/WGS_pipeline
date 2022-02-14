@@ -36,8 +36,8 @@ for filename in ./seq/*.fa
 do
         base=$(basename $filename .fa)
         mkdir -p ./result/resfinder/${base}
-        python3 /disk1/cau/cvmcjp/software/resfinder/run_resfinder.py -db_res /disk1/cau/cvmcjp/database/resfinder_db -s Other \
-        --point -db_point /disk1/cau/cvmcjp/database/pointfinder_db \
+        python3 /disk1/cau/cvmcjp/software/resfinder/run_resfinder.py -db_res /disk1/cau/cvmcjp/database/db_resfinder -s Other \
+        --point -db_point /disk1/cau/cvmcjp/database/db_pointfinder \
         -o ./result/resfinder/${base} -l 0.6 -t 0.9 \
         --acquired -ifa ./seq/${base}.fa
         # Deprecated
@@ -54,8 +54,8 @@ for filename in ./fq/*_1.fq.gz
 do
         base=$(basename $filename _1.fq.gz)
         mkdir -p ./result/resfinder/${base}
-        python3 /disk1/cau/cvmcjp/software/resfinder/run_resfinder.py -db_res /disk1/cau/cvmcjp/database/resfinder_db -s Salmonella \
-        --point -db_point /disk1/cau/cvmcjp/database/pointfinder_db \
+        python3 /disk1/cau/cvmcjp/software/resfinder/run_resfinder.py -db_res /disk1/cau/cvmcjp/database/db_resfinder -s Salmonella \
+        --point -db_point /disk1/cau/cvmcjp/database/db_pointfinder \
         -o ./result/resfinder/${base} -l 0.6 -t 0.9 \
         --acquired -if1 ./fq/${base}_1.fq.gz ./fq/${base}_2.fq.gz
         # Deprecated
